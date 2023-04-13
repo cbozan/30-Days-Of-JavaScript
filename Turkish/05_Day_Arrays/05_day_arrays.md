@@ -32,7 +32,7 @@
 
   
 
-[<< Gün 4](../04_Day_Conditionals/04_day_conditionals.md) | [Gün 6 >>](../06_Day_Loops/06_day_loops.md)
+[<< Gün 4](../04_Day_Conditionals/04_day_conditionals.md) | [Gün 6 >>](../06_Day_Loops_Donguler/06_day_loops.md)
 
   
 
